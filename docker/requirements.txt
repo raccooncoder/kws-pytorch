@@ -5,3 +5,4 @@ torchaudio == 0.6.0
 wandb == 0.10.7
 librosa
 tqdm
+plotly

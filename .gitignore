@@ -1,3 +1,8 @@
+*.pth
+*.wav
+speech_commands/
+wandb/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
